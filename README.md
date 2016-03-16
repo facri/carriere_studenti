@@ -1,2 +1,2 @@
-# carriere_studenti
-Progetto "Carriere degli Studenti"
+Fabio Marchionni
+Cristian Roselli
